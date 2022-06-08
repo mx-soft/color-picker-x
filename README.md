@@ -1,5 +1,5 @@
 # color picker x
-A small tool that helps in choosing colors for your designs and works that depend on colors
+color picker x is new windows tool that helps in choosing colors for your designs and works that depend on colors
 The tool provides a spectrum of colors with all Hue of color and Modern Selected Colors .
 
 features
