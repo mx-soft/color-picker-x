@@ -32,8 +32,8 @@ Lightness is also a percentage; 0% is black, 100% is white.
 
 
 **Tool UI Screenshots**
+![color picker x](https://user-images.githubusercontent.com/11804864/173129978-7694e785-6c67-40a5-99da-8022b215bd43.png)
 
-![color piker icon](https://user-images.githubusercontent.com/11804864/172685516-c637609f-3492-4ce0-99c6-c3373dcadecc.png)
 
 ![Grading](https://user-images.githubusercontent.com/11804864/172685519-137c95b3-0b71-4cf4-85b5-aa434ab189bf.png)
 ![hue](https://user-images.githubusercontent.com/11804864/172685522-ae5c099a-2f6b-4879-b1d7-41b9e19b10d2.png)
