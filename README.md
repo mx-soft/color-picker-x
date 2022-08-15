@@ -39,11 +39,15 @@ Lightness is also a percentage; 0% is black, 100% is white.
 
 ![color picker x](https://user-images.githubusercontent.com/11804864/173130508-2bd59e4b-15c6-4665-8e55-07c9a0ef3b49.png)
 
-![Grading](https://user-images.githubusercontent.com/11804864/172685519-137c95b3-0b71-4cf4-85b5-aa434ab189bf.png)
-![hue](https://user-images.githubusercontent.com/11804864/172685522-ae5c099a-2f6b-4879-b1d7-41b9e19b10d2.png)
-![Material](https://user-images.githubusercontent.com/11804864/172685527-2c54830d-34d0-420e-8a78-09c84cd6b294.png)
-![Tailwind](https://user-images.githubusercontent.com/11804864/172685530-d7423a84-f537-424d-9abd-3bd5ce50ba28.png)
-![color piker 1](https://user-images.githubusercontent.com/11804864/172685381-dd9bdfb1-6217-4603-8720-8fb2658bb151.png)
-![color piker 2](https://user-images.githubusercontent.com/11804864/172685505-d9de341f-7b45-44c8-a35b-257a9528b676.png)
-![color piker 3](https://user-images.githubusercontent.com/11804864/172685512-e595c8ec-5fbe-4ea9-b82f-c5f47749c45b.png)
+![color piker 1](https://user-images.githubusercontent.com/11804864/184616911-1f1310f8-a695-41c6-8d67-d114beac7e59.png)
+![color piker 2](https://user-images.githubusercontent.com/11804864/184616916-e8bfbbaf-a9b1-40b2-b8ff-11fea808d3a6.png)
+![color piker 3](https://user-images.githubusercontent.com/11804864/184616921-f5912f60-162d-4ac4-9e99-e51c503794bb.png)
+
+![Grading color](https://user-images.githubusercontent.com/11804864/184616898-1283b374-f702-4912-b9aa-6da91fbe2639.png)
+![Material ui colors](https://user-images.githubusercontent.com/11804864/184616904-2d0d3778-356b-423c-b9e6-2d97ce993fb1.png)
+![Tailwind colors](https://user-images.githubusercontent.com/11804864/184616905-a9b22cdf-aef9-404c-ac79-2d5477549991.png)
+![hue colors](https://user-images.githubusercontent.com/11804864/184616909-352ed2ae-427e-4495-9c8c-6eb28cee431c.png)
+
+
+
 
