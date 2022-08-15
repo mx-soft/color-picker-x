@@ -2,6 +2,10 @@
 **color picker x is new windows tool that helps in choosing colors for your designs and works that depend on colors
 The tool provides a spectrum of colors with all Hue of color and Modern Selected Colors .**
 
+**change log** 
++ New UI
++ Improve performance to work smoothly
+
 **features** 
 
 - [x] colors by RGB values (Red , Green , Blue)
